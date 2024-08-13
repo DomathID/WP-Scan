@@ -5,7 +5,7 @@ function findWordPressLogin($site_url) {
         '/wp-admin',
         '/login',
         '/admin',
-        '/administrator'
+        '/administrator',
         '/wp/wp-login.php',
         '/wp/wp-admin',
         '/wp-admin.php',
